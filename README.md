@@ -16,7 +16,7 @@ ADR FORM
 
 3. Suspected Medication:
 * Name; Ciprofloxacin
-* Manufacturer’s name; Kenzo
+* Manufacturerâ€™s name; Kenzo
 * Dose used; 500mg
 * ROA; Oral
 * Frequency; BD
